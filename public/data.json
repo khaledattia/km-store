@@ -1,0 +1,159 @@
+{
+  "data": {
+    "products": [
+      {
+        "id": "1",
+        "title": "100% natural cotton T-shirt",
+        "price": 300,
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option into nihil imperdiet doming id quod mazim placerat facer possim assum est notare.",
+        "imgs": [
+          "/assets/imgs/p-001-01.jpg",
+          "/assets/imgs/p-001-02.jpg",
+          "/assets/imgs/p-001-03.jpg",
+          "/assets/imgs/p-001-04.jpg",
+          "/assets/imgs/p-001-05.jpg",
+          "/assets/imgs/p-001-06.jpg"
+        ],
+        "min": 2,
+        "max": 5,
+        "discount": 0.15,
+        "reviews": [
+          {
+            "user": "user",
+            "comment": "good"
+          },
+          {
+            "user": "user",
+            "comment": "good"
+          },
+          {
+            "user": "user",
+            "comment": "good"
+          },
+          {
+            "user": "user",
+            "comment": "good"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "100% natural cotton T-shirt",
+        "price": 250,
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option into nihil imperdiet doming id quod mazim placerat facer possim assum est notare.",
+        "imgs": [
+          "/assets/imgs/p-002-01.jpg",
+          "/assets/imgs/p-002-02.jpg",
+          "/assets/imgs/p-002-03.jpg"
+        ],
+        "min": 1,
+        "max": 3,
+        "discount": 0.5,
+        "reviews": [
+          {
+            "user": "user",
+            "comment": "good"
+          },
+          {
+            "user": "user",
+            "comment": "good"
+          },
+          {
+            "user": "user",
+            "comment": "good"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "100% natural cotton T-shirt",
+        "price": 350,
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option into nihil imperdiet doming id quod mazim placerat facer possim assum est notare.",
+        "imgs": [
+          "/assets/imgs/p-003-01.jpg",
+          "/assets/imgs/p-003-02.jpg",
+          "/assets/imgs/p-003-03.jpg",
+          "/assets/imgs/p-003-04.jpg",
+          "/assets/imgs/p-003-05.jpg"
+        ],
+        "min": 1,
+        "max": 7,
+        "discount": 0,
+        "reviews": [
+          {
+            "user": "user",
+            "comment": "good"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "100% natural cotton T-shirt",
+        "price": 300,
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option into nihil imperdiet doming id quod mazim placerat facer possim assum est notare.",
+        "imgs": [
+          "/assets/imgs/p-004-01.jpg",
+          "/assets/imgs/p-004-02.jpg",
+          "/assets/imgs/p-004-03.jpg"
+        ],
+        "min": 1,
+        "max": 3,
+        "discount": 0.2,
+        "reviews": [
+          {
+            "user": "user",
+            "comment": "good"
+          },
+          {
+            "user": "user",
+            "comment": "good"
+          },
+          {
+            "user": "user",
+            "comment": "good"
+          },
+          {
+            "user": "user",
+            "comment": "good"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "100% natural cotton T-shirt",
+        "price": 200,
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option into nihil imperdiet doming id quod mazim placerat facer possim assum est notare.",
+        "imgs": [
+          "/assets/imgs/p-005-01.jpg",
+          "/assets/imgs/p-005-02.jpg",
+          "/assets/imgs/p-005-03.jpg"
+        ],
+        "min": 1,
+        "max": 3,
+        "discount": 0,
+        "reviews": [
+          {
+            "user": "user",
+            "comment": "good"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "100% natural cotton T-shirt",
+        "price": 400,
+        "description": "Dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option into nihil imperdiet doming id quod mazim placerat facer possim assum est notare.",
+        "imgs": ["/assets/imgs/p-006-01.jpg", "/assets/imgs/p-006-02.jpg"],
+        "min": 1,
+        "max": 3,
+        "discount": 0.1,
+        "reviews": [
+          {
+            "user": "user",
+            "comment": "good"
+          }
+        ]
+      }
+    ]
+  }
+}

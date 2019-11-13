@@ -1,0 +1,63 @@
+@media (max-width: 580px) {
+  .prev-btn {
+    transform: translateX(100%);
+  }
+
+  .next-btn {
+    transform: translateX(-100%);
+  }
+
+  .title {
+    font-size: 1.3rem;
+  }
+
+  .nav-tabs .nav-link {
+    font-size: 0.72rem;
+  }
+}
+
+@media (max-width: 991px) {
+  figure.magnifier {
+    width: 200px;
+    margin: 0px auto 1rem auto;
+  }
+
+  button.next-btn,
+  button.prev-btn {
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .nav-bottom {
+    background: $darkBlue;
+
+    ul {
+      position: absolute;
+    }
+  }
+
+  .logo {
+    width: 3rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .carousel-product:hover {
+    .module {
+      visibility: visible;
+      opacity: 1;
+      z-index: 1;
+    }
+
+    span.trnasition-up {
+      visibility: visible;
+      transform: translateY(0);
+    }
+
+    img {
+      transform: scale(1.2);
+    }
+  }
+}
